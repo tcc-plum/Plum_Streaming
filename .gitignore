@@ -1,0 +1,6 @@
+__pycache__
+.vscode
+env
+dim_data_corrigido.csv
+script_criacao_banco.sql
+script_criacao_dw.sql
